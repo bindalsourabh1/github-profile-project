@@ -41,8 +41,8 @@ Enter any GitHub username to see their public repositories and commits chart.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/bindalsourabh1/github-profile-project.git
-cd github-profile-analyzer
+git clone https://github.com/bindalsourabh1/github-profile-project
+cd github-profile-project
 ```
 
 OR Download the ZIP and Extract.
