@@ -114,7 +114,7 @@ src/
 Made by Sourabh Bindal
 
 ## License
-This project is for educational purposes only.
+MIT
 
 ---
 
