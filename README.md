@@ -89,6 +89,9 @@ You can deploy this app easily on:
    vercel
    ```
 
+## Deployed link
+[Github Profile Analyzer](https://github-profile-project-delta.vercel.app/)
+
 ## Note on GitHub API Limitations
 
 * The GitHub REST API has a rate limit for unauthenticated users.
