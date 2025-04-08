@@ -78,9 +78,16 @@ npm run preview
 
 You can deploy this app easily on:
 * Vercel (Recommended)
-* Netlify
-* GitHub Pages
-* Any Static Hosting Provider
+
+1. Install the Vercel CLI:
+   ```bash
+   npm install -g vercel
+   ```
+
+2. Deploy:
+   ```bash
+   vercel
+   ```
 
 ## Note on GitHub API Limitations
 
