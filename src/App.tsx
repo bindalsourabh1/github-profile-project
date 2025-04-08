@@ -1,7 +1,7 @@
 // import { Button } from "@/components/ui/button"
 import { useState } from "react";
 import UserInput from "./components/UserInput";
-import RepoList from "./components/Repolist";
+import RepoList from "./components/RepoList";
 import CommitsChart from "./components/CommitsChart";
 const token = import.meta.env.VITE_GITHUB_TOKEN;
 interface Repo {
